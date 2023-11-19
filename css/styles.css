@@ -186,6 +186,11 @@ address {
   line-height: inherit;
 }
 
+.container
+{
+    display: inline;
+}
+
 ol,
 ul {
   padding-left: 2rem;
